@@ -5,7 +5,7 @@ First thing, you need to install **docker** and **docker-compose**.
 
 If you are on Windows Machine, you can go to [Docker Link](https://www.docker.com/products/docker-desktop)
 
-If you are on Linux Machine (Debian), you can run these commands on the bash contents into docker-installation-linux.sh file
+If you are on Linux Machine (Debian), you can run these commands on the bash contents into [docker-installation-linux.sh file](https://github.com/vscalcione/springboot-mysql-docker-compose-demo/blob/main/docker-installation-linux.sh)
 
 We can easily run the whole with only a single command:
 ```bash
