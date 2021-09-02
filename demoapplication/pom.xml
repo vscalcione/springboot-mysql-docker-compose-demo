@@ -8,7 +8,7 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>it.vscalcione.springboot.docker.msyql</groupId>
+	<groupId>it.vscalcione.springboot.docker.mysql</groupId>
 	<artifactId>demoapplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-mysql-docker-compose-demo</name>

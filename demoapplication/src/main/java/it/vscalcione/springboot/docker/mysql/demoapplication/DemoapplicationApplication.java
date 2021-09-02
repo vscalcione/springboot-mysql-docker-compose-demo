@@ -1,4 +1,4 @@
-package it.vscalcione.springboot.docker.msyql.demoapplication;
+package it.vscalcione.springboot.docker.mysql.demoapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
