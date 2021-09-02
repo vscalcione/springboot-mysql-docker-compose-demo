@@ -1,5 +1,10 @@
 # springboot-mysql-docker-compose-demo
 
+![java-logo](https://img.icons8.com/color/65/000000/java-coffee-cup-logo--v1.png)
+![springboot-logo](https://img.icons8.com/color/65/000000/spring-logo.png)
+![mysql-logo](https://img.icons8.com/fluency/65/000000/mysql-logo.png)
+![docker-logo](https://img.icons8.com/color/65/000000/docker.png)
+
 ## Run the system
 First thing, you need to install **docker** and **docker-compose**.
 
