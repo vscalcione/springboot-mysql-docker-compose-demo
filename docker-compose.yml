@@ -16,7 +16,7 @@ services:
   app:
     depends_on: 
       - mysqldb
-    build: ./springboot-mysql-docker-demo
+    build: ./springboot-mysql-docker-compose-demo
     restart: on-failure
     env_file: ./.env
     ports:
