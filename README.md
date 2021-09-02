@@ -18,3 +18,14 @@ The services can be run on the background with the command:
 ```bash
 $ docker-compose up -d
 ```
+
+## Stop the System
+Stopping all the running containers is also simple with a single command:
+```bash
+$ docker-compose down
+```
+
+If you need to stop and remove all containers, networks, and all images used by any service in [docker-compose.yml](https://github.com/vscalcione/springboot-mysql-docker-compose-demo/blob/main/docker-compose.yml) file, use the command:
+```bash
+$ docker-compose down --rmi all
+```
